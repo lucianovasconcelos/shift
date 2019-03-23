@@ -1,5 +1,3 @@
 Primeira liha do arquivo 1
 Mod 3
-Mod 4 ----
-Mod 5 ----
 Mod 6
